@@ -1,19 +1,19 @@
 class Translation(object):
-    START_TEXT = """Hi!
-Thank you for using me 😬
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+    START_TEXT = """Hi Telaso!
+Mau nyari API ID sama HASH kah? 😬
+Masukin nomer Telegram lu disini, jangan nomer togel tolol
 
 /start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
+    AFTER_RECVD_CODE_TEXT = """Oke Kampang!
+Kirim kesini kode yang telah dikirim oleh pihak telegramnya!
 
-this code is only used for the purpose of getting the APP ID from my.telegram.org
-if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/swatv3nub/ScrapperRobot and clicking on the "Deploy in Heroku" Button
+kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
+Jika elu gak percaya sama bot ini, ke my.telegram.org ae sono
+
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@ProjectHackfreaks"
+    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@ManusiaRakitan"
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
     IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
     IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
