@@ -16,8 +16,12 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+## How To Deploy 
+* With Heroku:
+<p align="center">
+   <a href = "https://heroku.com/deploy?template=https://github.com/ManusiaRakitan/mytelegramorg"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+</p>
+<br>
 
 #### The Legacy Way
 
