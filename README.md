@@ -23,7 +23,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/swatv3nub/ScrapperRobot.git
+git clone https://github.com/ManusiaRakitan/mytelegramorg.git
 ```
 
 - change the directory.
